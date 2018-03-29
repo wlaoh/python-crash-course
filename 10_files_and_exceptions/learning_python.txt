@@ -1,0 +1,4 @@
+In Python you can cast a string as an interger and vice versa
+In Python you can iterate though a list or dictionary very simply
+In Python you can create classes easily with full inheritance
+In Python you can set variables to any type
